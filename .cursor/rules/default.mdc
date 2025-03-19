@@ -1,0 +1,54 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Cursor Rules Documentation
+
+## Overview
+This document outlines the usage and purpose of specific files in the project for development and documentation purposes.
+
+## Development Notepad ([xxxTmpForCursorRulesxxx.md](mdc:xxxTmpForCursorRulesxxx.md))
+This file serves as a flexible notepad for development purposes. You can:
+- Modify this file freely
+- Write any development-related content
+- When the user needs to operate the GUI (example: unity), please also write the instructions and the procedures before and after in the file([xxxTmpForCursorRulesxxx.md](mdc:xxxTmpForCursorRulesxxx.md)).
+- Create the file if it doesn't exist
+
+### Use Cases
+- Saving design concepts and plans
+- Exporting context for sharing with other projects
+
+## Project Design Documentation ([xxxDesignForCursorRulesxxx.md](mdc:xxxDesignForCursorRulesxxx.md))
+This file is dedicated to comprehensive project documentation. You can:
+- Describe and share project specifications for the future
+- Document project structure and design
+- Save and update project specifications
+- Use as a reference for coding purposes
+- Create the file if it doesn't exist
+
+### Purpose
+This file captures the extensive aspects of project design. Note that:
+- A concise, exact, current project design is stored in a separate file.
+  - [xxxdirectorystructurexxx.md](mdc:xxxdirectorystructurexxx.md)
+  - [xxxtechnologystackxxx.md](mdc:xxxtechnologystackxxx.md)
+  - We request that these 2 files contain only current information at the time.
+
+## Important Guidelines
+The following practices are strictly prohibited:
+- Modifying the design to accommodate current code without proper justification
+- Design changes should only be made when necessary, with careful judgment and proper justification
+
+## File Creation
+If either of these files does not exist, you are permitted to create them.
+
+## Rule Modification
+Please note:
+- This rule should not be modified
+- If you wish to modify this rule, please:
+  1. Ask for permission
+  2. Show the proposed new content
+  3. Wait for consideration and approval
+
+
+  

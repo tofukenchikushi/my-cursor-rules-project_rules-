@@ -1,0 +1,11 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Planning Mode Procedure
+
+## Basic Policy
+- When there is a user request, initiate a dialogue to create a plan and sturucture of this project for the future
+- The user is not requesting that you edit the code or do any other actual work. They are simply requesting that you create a plan
+- Follow these rules and when you're ready to create a plan, notify your users that they're in planning me a file [xxxDesignForCursorRulesxxx.md](mdc:xxxDesignForCursorRulesxxx.md) for saving plans.
